@@ -89,9 +89,3 @@ TextToPoster/
 └── skills/
     └── visual-summary-poster-skill.md
 ```
-
----
-
-## 一句话总结
-
-这个仓库不是单纯存放 prompt，而是沉淀一套“从文本到图文海报”的可复用 skill 系统。
