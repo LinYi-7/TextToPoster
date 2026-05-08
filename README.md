@@ -4,8 +4,7 @@
 
 核心目标是：把原文内容先提炼成结构化视觉信息，再生成 HTML 中间页，最后渲染为 PNG 图片，用于社媒传播、封面图制作、长图总结和知识卡片生成。
 
-
-
+https://github.com/LinYi-7/TextToPoster/blob/main/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_1187c225-ca5b-41af-b727-42c7d0275fcd.png
 
 
 ---
